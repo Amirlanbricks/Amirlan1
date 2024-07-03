@@ -1,0 +1,43 @@
+header{
+    padding: 20px;
+    color:whitesmoke;
+    background-image: url(https://scontent.fala8-1.fna.fbcdn.net/v/t1.6435-9/142618916_101419888633123_2378534876125142184_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jw9KNN09dkgQ7kNvgGsqv9f&_nc_ht=scontent.fala8-1.fna&oh=00_AYDMitG8Lw_NQBrmgUVjCCQxdRG_u_oRfMmHB6Jg501KvA&oe=66AB4799);
+    background-size: cover;
+    text-align: center;
+    font-size: 60px;
+     height: 720px;
+}
+main{
+    padding: 1px;
+    font-size: 40px;
+    color:whitesmoke;
+    background-color: gray;
+    text-align: left;
+    height: auto;
+}
+.whole{
+    background-color:gray;
+}
+.start{
+    background-color: rgb(118, 112, 112);
+    text-align: center;
+}
+.img{
+    text-align: right;
+}
+footer{
+    height: 300px;
+    background-color: darkslategray;
+}
+.social img{
+    width: 100px;
+    padding-left: 150px;
+}
+
+
+.social {
+    list-style: none;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
